@@ -1,0 +1,117 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\mwakamatsu\\source\\repos\\DotNetSamples\\IdentityApp\\wwwroot\\js\\client.js",
+      "PackagePath": "staticwebassets\\js\\client.js"
+    },
+    {
+      "Id": "C:\\Users\\mwakamatsu\\source\\repos\\DotNetSamples\\IdentityApp\\wwwroot\\js\\network.js",
+      "PackagePath": "staticwebassets\\js\\network.js"
+    },
+    {
+      "Id": "C:\\Users\\mwakamatsu\\source\\repos\\DotNetSamples\\IdentityApp\\wwwroot\\lib\\qrcode\\qrcode.js",
+      "PackagePath": "staticwebassets\\lib\\qrcode\\qrcode.js"
+    },
+    {
+      "Id": "C:\\Users\\mwakamatsu\\source\\repos\\DotNetSamples\\IdentityApp\\wwwroot\\lib\\qrcode\\qrcode.min.js",
+      "PackagePath": "staticwebassets\\lib\\qrcode\\qrcode.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mwakamatsu\\source\\repos\\DotNetSamples\\IdentityApp\\wwwroot\\lib\\twitter-bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\twitter-bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\mwakamatsu\\source\\repos\\DotNetSamples\\IdentityApp\\wwwroot\\lib\\twitter-bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\twitter-bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mwakamatsu\\source\\repos\\DotNetSamples\\IdentityApp\\wwwroot\\lib\\twitter-bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\twitter-bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mwakamatsu\\source\\repos\\DotNetSamples\\IdentityApp\\wwwroot\\lib\\twitter-bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\twitter-bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mwakamatsu\\source\\repos\\DotNetSamples\\IdentityApp\\wwwroot\\lib\\twitter-bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\twitter-bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\mwakamatsu\\source\\repos\\DotNetSamples\\IdentityApp\\wwwroot\\lib\\twitter-bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\twitter-bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mwakamatsu\\source\\repos\\DotNetSamples\\IdentityApp\\wwwroot\\lib\\twitter-bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\twitter-bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mwakamatsu\\source\\repos\\DotNetSamples\\IdentityApp\\wwwroot\\lib\\twitter-bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\twitter-bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mwakamatsu\\source\\repos\\DotNetSamples\\IdentityApp\\wwwroot\\lib\\twitter-bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\twitter-bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\mwakamatsu\\source\\repos\\DotNetSamples\\IdentityApp\\wwwroot\\lib\\twitter-bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\twitter-bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mwakamatsu\\source\\repos\\DotNetSamples\\IdentityApp\\wwwroot\\lib\\twitter-bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\twitter-bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mwakamatsu\\source\\repos\\DotNetSamples\\IdentityApp\\wwwroot\\lib\\twitter-bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\twitter-bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mwakamatsu\\source\\repos\\DotNetSamples\\IdentityApp\\wwwroot\\lib\\twitter-bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\twitter-bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\mwakamatsu\\source\\repos\\DotNetSamples\\IdentityApp\\wwwroot\\lib\\twitter-bootstrap\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\twitter-bootstrap\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\mwakamatsu\\source\\repos\\DotNetSamples\\IdentityApp\\wwwroot\\lib\\twitter-bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\twitter-bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mwakamatsu\\source\\repos\\DotNetSamples\\IdentityApp\\wwwroot\\lib\\twitter-bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\twitter-bootstrap\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\mwakamatsu\\source\\repos\\DotNetSamples\\IdentityApp\\wwwroot\\lib\\twitter-bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\twitter-bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\mwakamatsu\\source\\repos\\DotNetSamples\\IdentityApp\\wwwroot\\lib\\twitter-bootstrap\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\twitter-bootstrap\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\mwakamatsu\\source\\repos\\DotNetSamples\\IdentityApp\\wwwroot\\lib\\twitter-bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\twitter-bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mwakamatsu\\source\\repos\\DotNetSamples\\IdentityApp\\wwwroot\\lib\\twitter-bootstrap\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\twitter-bootstrap\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.IdentityApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.IdentityApp.props",
+      "PackagePath": "build\\IdentityApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.IdentityApp.props",
+      "PackagePath": "buildMultiTargeting\\IdentityApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.IdentityApp.props",
+      "PackagePath": "buildTransitive\\IdentityApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
