@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "45QXLJX0CO5qHmAX6bFe5R7i0eGk5ZAMXp6MhWoxfNByrCwUjZSypFfMTRHI/t7XvkW7gsO+PcuJVVWKqPfaNA==",
+  "dgSpecHash": "5jLl6S9YjQ3ugqEw42Ca8q54ZNykutcD65dv9MWz4wA2mR2sgpjVmTJFFGIY0uTfuUs1bnTRzMv/T4H4e5/loA==",
   "success": true,
   "projectFilePath": "C:\\Users\\mwakamatsu\\source\\repos\\DotNetSamples\\IdentityApp\\IdentityApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mwakamatsu\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\mwakamatsu\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
     "C:\\Users\\mwakamatsu\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
+    "C:\\Users\\mwakamatsu\\.nuget\\packages\\microsoft.aspnetcore.authentication.facebook\\7.0.4\\microsoft.aspnetcore.authentication.facebook.7.0.4.nupkg.sha512",
     "C:\\Users\\mwakamatsu\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\7.0.3\\microsoft.aspnetcore.cryptography.internal.7.0.3.nupkg.sha512",
     "C:\\Users\\mwakamatsu\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\7.0.3\\microsoft.aspnetcore.cryptography.keyderivation.7.0.3.nupkg.sha512",
     "C:\\Users\\mwakamatsu\\.nuget\\packages\\microsoft.aspnetcore.identity.entityframeworkcore\\7.0.3\\microsoft.aspnetcore.identity.entityframeworkcore.7.0.3.nupkg.sha512",

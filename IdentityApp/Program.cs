@@ -61,6 +61,13 @@ builder.Services.AddDefaultIdentity<IdentityUser>(opts => {
 
 }).AddEntityFrameworkStores<IdentityDbContext>();
 
+// Social Logins
+builder.Services.AddAuthentication()
+    .AddFacebook(opts => {
+        opts.AppId = builder.Configuration["Facebook:AppId"];
+        opts.AppSecret = builder.Configuration["Facebook:AppSecret"];
+    });
+
 var app = builder.Build();
 if (app.Environment.IsDevelopment())
 {
